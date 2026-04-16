@@ -5,26 +5,10 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:4facfe&height=80&section=header&text=Currently%20Working%20on%20Web%20%26%20Game%20Development&fontSize=18&fontColor=ffffff" />
+</p>
 
-<!-- 🔷 NEON BLUE GLASS CARD -->
-
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(79,172,254,0.4); border-radius:14px; padding:25px; background:linear-gradient(135deg,#0f2027,#1a2a3a);">
-
-### 💡 About Me
-
-Effortlessly building modern web apps, designing clean UI/UX,
-and creating digital experiences that feel smooth and intuitive.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- 🔷 NEON INPUT STYLE BAR -->
 
 <table width="100%">
 <tr>
