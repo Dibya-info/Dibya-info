@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm YourName</h1>
+<p align="center">Building clean & modern digital experiences</p>
 
-<!--
-**Dibya-info/Dibya-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🎯 Focused on UI/UX & Frontend
+- 🚀 Currently building awesome stuff
+- 🎨 Love minimal & modern design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,figma,nodejs" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true" />
+</p>
+
+---
+
+### 🌐 Connect
+<p align="center">
+  <a href="#">LinkedIn</a> • <a href="#">Portfolio</a>
+</p>
