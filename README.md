@@ -88,6 +88,20 @@ that balance **performance, usability, and aesthetics**.
 </p>
 
 ---
+### 📊 Dev Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=4facfe&icon_color=00f2fe&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
 
 <!-- 🐍 SNAKE ANIMATION -->
 
