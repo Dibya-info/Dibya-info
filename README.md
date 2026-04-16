@@ -1,116 +1,135 @@
-<!-- 🔥 GLASS BANNER -->
+<!-- 🔥 BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:4facfe,100:00f2fe&height=200&section=header&text=Dibya%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:4facfe,100:00f2fe&height=220&section=header&text=Dibya%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- 👋 INTRO -->
+
+<h2 align="center">🐍 Creative Developer | </h2>
+
+<p align="center">
+  Building modern web apps and crafting clean, user-focused digital experiences.
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:4facfe&height=80&section=header&text=Currently%20Working%20on%20Web%20%26%20Game%20Development&fontSize=18&fontColor=ffffff" />
-</p>
 
+---
+---
 
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(0,242,254,0.5); border-radius:50px; padding:14px 20px; background-color:#0f2027;">
+### 👨‍💻 Who I Am
 
-💻 Currently working on improving my **web dev & game dev skills**
+Developer skilled in **Python, Data Science, Web & Game Development**,
+focused on building modern, clean, and impactful digital experiences.
 
-</td>
-</tr>
-</table>
-
-
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
-
-### 🧠 About Me
-
-* 🎯 15 y/o developer
-* 💻 Web & Game Developer
-* 🎨 UI/UX focused
-* 🚀 Constantly improving
-
-</td>
-</tr>
-</table>
+* 🎯 15 y/o developer focused on growth
+* 💻 Web Developer & Game Developer
+* 🎨 Passionate about modern UI/UX
+* 🚀 Always building and learning
 
 ---
 
-<!-- 🧊 GLASS CARD: SKILLS -->
 
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
 
-### ⚡ Skills
+<!-- ⚡ SKILLS -->
+
+### ⚡ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- 🧊 GLASS CARD: STATS -->
+<!-- 📊 DEV DASHBOARD -->
 
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
-
-### 📊 Dev Stats
+### 📊 Dev Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=4facfe&icon_color=00f2fe&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dibya-info&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibya-info&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dibya-info&theme=github_dark" width="95%"/>
+</p>
 
 ---
 
-<!-- 🧊 GLASS CARD: PROJECTS -->
-
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
-
-### 🚀 Projects
+### 🧠 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dibya-info&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dibya-info&theme=github_dark" width="45%"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
-<!-- 🧊 GLASS CARD: CONTACT -->
+---
 
-<table width="100%">
-<tr>
-<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
+### 📈 Contribution Activity
 
-### 🌐 Contact
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibya-info&theme=github-dark&hide_border=true&area=true" />
+</p>
 
-📧 [sharmadibya@outlook.com](mailto:sharmadibya@outlook.com)
+---
 
-</td>
-</tr>
-</table>
+### 🌐 Socials
+
+<p align="center">
+  <a href="https://instagram.com/Dibya-info">
+    <img src="https://img.shields.io/badge/Instagram-0f2027?style=for-the-badge&logo=instagram&logoColor=00f2fe" />
+  </a>
+  <a href="https://linkedin.com/in/Dibya-info">
+    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=4facfe" />
+  </a>
+  <a href="https://x.com/Dibya-info">
+    <img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=twitter&logoColor=00f2fe" />
+  </a>
+  <a href="https://youtube.com/@Dibya-info">
+    <img src="https://img.shields.io/badge/YouTube-0f2027?style=for-the-badge&logo=youtube&logoColor=ff0000" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dibya-info/Dibya-info/output/snake.svg" />
+</p>
+
+
+
+<!-- 🚀 PROJECTS -->
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dibya-info&repo=PROJECT1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dibya-info&repo=PROJECT2&theme=tokyonight" />
+</p>
+
+---
+
+<!-- 🌐 CONNECT -->
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:sharmadibya@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=00f2fe" />
+  </a>
+  <a href="https://github.com/Dibya-info">
+    <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=4facfe" />
+  </a>
+</p>
 
 ---
 
 <!-- 🔥 FOOTER -->
 
 <p align="center">
-  ⚡ Designed with a modern glass UI aesthetic
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00f2fe&height=40&section=footer&text=⚡%20Thanks%20for%20visiting%20my%20profile&fontSize=16&fontColor=ffffff" />
 </p>
