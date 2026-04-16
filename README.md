@@ -8,8 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dibya-info&label=Terminal%20Access&color=004e92&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dibya-info&label=Profile%20Views&color=007bff&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/Dibya-info?label=Followers&style=flat-square&color=007bff&labelColor=333333" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dibya-info?label=Total%20Stars&style=flat-square&color=007bff&labelColor=333333" alt="Stars" />
 </p>
+
 
 ---
 
