@@ -1,24 +1,24 @@
-<!-- 🔥 BANNER -->
+<!-- 🔥 GLASS BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:4facfe,100:00f2fe&height=180&section=header&text=Dibya%20Sharma&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,30:1a2a3a,70:4facfe,100:00f2fe&height=200&section=header&text=Dibya%20Sharma&fontSize=42&fontColor=ffffff" />
 </p>
 
 ---
 
-<!-- 👋 INTRO BOX -->
+<!-- 🧊 GLASS CARD: INTRO -->
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="border:1px solid rgba(255,255,255,0.1); border-radius:12px; padding:20px; background-color:#0f2027;">
 
 ### 👋 Hi there
 
-I'm developing to make **services that improve lives**.
+I'm developing to create **modern, impactful digital experiences**.
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=6&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=4&section=footer"/>
+</p>
 
 </td>
 </tr>
@@ -26,18 +26,18 @@ I'm developing to make **services that improve lives**.
 
 ---
 
-<!-- 🧠 ABOUT BOX -->
+<!-- 🧊 GLASS CARD: ABOUT -->
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
 
 ### 🧠 About Me
 
 * 🎯 15 y/o developer
 * 💻 Web & Game Developer
 * 🎨 UI/UX focused
-* 🚀 Always building
+* 🚀 Constantly improving
 
 </td>
 </tr>
@@ -45,15 +45,15 @@ I'm developing to make **services that improve lives**.
 
 ---
 
-<!-- ⚡ SKILLS BOX -->
+<!-- 🧊 GLASS CARD: SKILLS -->
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
 
 ### ⚡ Skills
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,python,js" />
 </p>
 
@@ -63,11 +63,11 @@ I'm developing to make **services that improve lives**.
 
 ---
 
-<!-- 📊 STATS BOX -->
+<!-- 🧊 GLASS CARD: STATS -->
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
 
 ### 📊 Dev Stats
 
@@ -81,11 +81,11 @@ I'm developing to make **services that improve lives**.
 
 ---
 
-<!-- 🚀 PROJECTS BOX -->
+<!-- 🧊 GLASS CARD: PROJECTS -->
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
 
 ### 🚀 Projects
 
@@ -100,11 +100,11 @@ I'm developing to make **services that improve lives**.
 
 ---
 
-<!-- 🌐 CONTACT BOX -->
+<!-- 🧊 GLASS CARD: CONTACT -->
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td style="border:1px solid rgba(255,255,255,0.08); border-radius:12px; padding:20px; background-color:#0f2027;">
 
 ### 🌐 Contact
 
@@ -113,3 +113,11 @@ I'm developing to make **services that improve lives**.
 </td>
 </tr>
 </table>
+
+---
+
+<!-- 🔥 FOOTER -->
+
+<p align="center">
+  ⚡ Designed with a modern glass UI aesthetic
+</p>
