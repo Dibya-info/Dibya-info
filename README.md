@@ -7,27 +7,35 @@
 
 ---
 
-<!-- 🧊 GLASS CARD: INTRO -->
+<!-- 🔷 NEON BLUE GLASS CARD -->
 
 <table width="100%">
 <tr>
-<td style="border:1px solid rgba(255,255,255,0.1); border-radius:12px; padding:20px; background-color:#0f2027;">
+<td style="border:1px solid rgba(79,172,254,0.4); border-radius:14px; padding:25px; background:linear-gradient(135deg,#0f2027,#1a2a3a);">
 
-### 👋 Hi there
+### 💡 About Me
 
-I'm developing to create **modern, impactful digital experiences**.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=4&section=footer"/>
-</p>
+Effortlessly building modern web apps, designing clean UI/UX,
+and creating digital experiences that feel smooth and intuitive.
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<!-- 🧊 GLASS CARD: ABOUT -->
+<!-- 🔷 NEON INPUT STYLE BAR -->
+
+<table width="100%">
+<tr>
+<td style="border:1px solid rgba(0,242,254,0.5); border-radius:50px; padding:14px 20px; background-color:#0f2027;">
+
+💻 Currently working on improving my **web dev & game dev skills**
+
+</td>
+</tr>
+</table>
+
 
 <table width="100%">
 <tr>
