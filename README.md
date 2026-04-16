@@ -1,8 +1,9 @@
 <!-- 🔥 GLASS BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,50:4a00e0,100:2b5876&height=200&section=header&text=Dibya%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:4facfe,100:00f2fe&height=200&section=header&text=Dibya%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 ---
 
