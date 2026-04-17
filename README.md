@@ -59,24 +59,30 @@
 
 ---
 
+---
+
 ### 🌐 Secure Connection
 
 <p align="center">
-  <a href="https://linkedin.com/in/Dibya-info" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=4facfe" />
   </a>
-  <a href="https://github.com/Dibya-info" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Dibya-info">
+    <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
   <a href="mailto:sharmadibya@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-0f2027?style=for-the-badge&logo=microsoft-outlook&logoColor=00f2fe" />
   </a>
 </p>
 
 <p align="center">
-  📩 <b>sharmadibya@outlook.com</b> • 🐙 <b>github.com/Dibya-info</b>
+  📧 <b>sharmadibya@outlook.com</b> &nbsp;•&nbsp;
+  🔗 <b>github.com/Dibya-info</b>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:000000&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00f2fe&height=35&section=footer&text=●%20Connection%20Status:%20Secure%20%7C%20Open%20for%20Collaboration&fontSize=14&fontColor=ffffff" />
 </p>
+
+---
+
