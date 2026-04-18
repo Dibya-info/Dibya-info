@@ -1,4 +1,4 @@
-\<!-- 🔥 HERO BANNER -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Dibya%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -43,15 +43,6 @@
 </p>
 
 ---
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibya-info&theme=github-dark&hide_border=true&area=true&color=007bff" width="100%"/>
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -68,6 +59,16 @@
 </p>
 
 ---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibya-info&theme=github-dark&hide_border=true&area=true&color=007bff" width="100%"/>
+</p>
+
+---
+
+
 
 ### 🌐 Secure Connection
 
