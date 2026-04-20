@@ -1,13 +1,11 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Dibya%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">🚀 Tech & Game Architect</h2>
+<h2 align="center">🚀 Developer | Learning & Building</h2>
 
 <p align="center">
-  <b>Python Developer • Modern Web Builder • AI Enthusiast</b>
+  <b>Python • Web Dev • Game Dev • Exploring AI</b>
 </p>
 
 <p align="center">
@@ -18,12 +16,12 @@
 
 ---
 
-### 👨‍💻 System Profile
+### 👨‍💻 About Me
 
-* 🎯 **Identity:** 15-year-old developer building real-world digital solutions
-* 💻 **Stack:** Python, JavaScript, Web & Game Development
-* 🧠 **Learning:** Data Science, NLP, Modern Web Tech
-* 🎨 **Focus:** Clean UI/UX + performance-driven design
+* 🎯 I'm 15 and learning by building real projects
+* 💻 I work with Python, web development, and game dev
+* 🧠 Currently exploring data science and AI stuff
+* 🎨 I like clean UI and simple, modern designs
 
 ---
 
@@ -43,6 +41,7 @@
 </p>
 
 ---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -68,9 +67,7 @@
 
 ---
 
-
-
-### 🌐 Secure Connection
+### 🌐 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME">
@@ -89,11 +86,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:007bff&height=35&section=footer&text=●%20Connection%20Status:%20Secure%20%7C%20Open%20for%20Collaboration&fontSize=14&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:007bff&height=35&section=footer&text=Always%20learning%20and%20building&fontSize=14&fontColor=ffffff" />
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Built with clean UI, modern design & developer mindset
+  ⚡ just trying to build cool stuff and get better every day
 </p>
